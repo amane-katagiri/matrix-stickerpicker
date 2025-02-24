@@ -1,0 +1,8 @@
+{
+  "homeserver_url": "https://matrix.amane.moe",
+  "packs": [
+    "scalar-isabella.json",
+    "scalar-privacy_pam.json",
+    "scalar-sheltie.json"
+  ]
+}
